@@ -1,0 +1,276 @@
+{
+  "categories": [
+    {
+      "name": "Movie Styles",
+      "templates": [
+        {
+          "name": "Skyscraper Leap",
+          "prompt": "Create a stunning cinematic sequence: A person leaps from a helicopter onto a towering skyscraper at night, landing in a dramatic crouch. As they rise, wind whips their jacket, and city lights glitter below. Capture the intensity and suspense with fast camera movements and close-ups on the figure’s determined expression. The scene should feel like a high-stakes movie moment, filled with adrenaline and epic atmosphere. Focus on realistic action, dynamic lighting, and a sense of scale as the character surveys the vast, illuminated city skyline from the rooftop.",
+          "thumbnail": "https://i.imgur.com/9JI6WP3.png",
+          "isPro": true
+        },
+        {
+          "name": "Cliff Dive",
+          "prompt": "Create a stunning cinematic sequence: A person dives into a crystal-clear lake from a towering cliff, water splashing in slow motion. As they surface, sunlight glimmers on the ripples. Use underwater and aerial shots to capture the serene beauty, emphasizing the exhilaration and tranquility of the moment.",
+          "thumbnail": "https://i.imgur.com/3X2rAmX.png",
+          "isPro": true
+        },
+        {
+          "name": "Foggy Forest Chase",
+          "prompt": "Create a stunning cinematic sequence: A person runs through a dense, foggy forest at twilight, branches brushing past. The camera follows close behind, capturing adrenaline and uncertainty. Use dramatic lighting and sound to heighten suspense as the figure navigates the mysterious woods.",
+          "thumbnail": "https://i.imgur.com/qWR5NeI.png",
+          "isPro": true
+        },
+        {
+          "name": "Futuristic Helmet Reveal",
+          "prompt": "A striking cinematic prompt: Turn my face with confidence on a bustling city street, wearing a sleek, silver futuristic helmet with bold black accents and a large rectangular visor reflecting vibrant city lights. Small circular lights illuminate the helmet, matching the advanced, metallic suit. Use a medium, centered shot to highlight the suit and helmet’s intricate details. Capture minimal motion as my head turns slowly, conveying elegance and poise. Employ a graceful tracking shot, dynamically revealing the urban environment’s depth and modern spatial elements. Bright, modern lighting enhances the reflective surfaces, evoking a high-definition, 2020s cinematic experience.",
+          "thumbnail": "https://i.imgur.com/q5fc62Z.png",
+          "isPro": true
+        },
+        {
+          "name": "Wild West Duel",
+          "prompt": "Two gunslingers stand back-to-back in a ghost town at high noon, wind swirling dust between them. Extreme close-ups on twitching fingers near holsters, then a rapid 360-degree spin as gunshots echo. Sunlight flares through bullet holes in wooden signs.",
+          "thumbnail": "https://i.imgur.com/Hwo326G.png",
+          "isPro": true
+        }
+      ]
+    },
+    {
+      "name": "Basic Styles",
+      "templates": [
+        {
+          "name": "Realistic",
+          "prompt": "Create a photorealistic version",
+          "thumbnail": "https://gamingbolt.com/wp-content/uploads/2018/03/Detroit-Become-Human.jpg",
+          "isPro": true,
+          "examples": [
+            "https://gamingbolt.com/wp-content/uploads/2018/03/Detroit-Become-Human.jpg",
+            "https://gamingbolt.com/wp-content/uploads/2018/03/Detroit-Become-Human.jpg"
+          ]
+        },
+        {
+          "name": "Anime",
+          "prompt": "Convert to anime style art",
+          "thumbnail": "https://i.imgur.com/3ukxxAI.png",
+          "isPro": true,
+          "examples": [
+            "https://i.imgur.com/3ukxxAI.png",
+            "https://i.imgur.com/3ukxxAI.png"
+          ]
+        },
+        {
+          "name": "Cartoon",
+          "prompt": "Transform into a cartoon style animation",
+          "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/04/01/1600x900/chatgpt_disney_pixar_style_image_generator_1743485947456_1743485957371.jpg",
+          "isPro": true,
+          "examples": [
+            "https://www.hindustantimes.com/ht-img/img/2025/04/01/1600x900/chatgpt_disney_pixar_style_image_generator_1743485947456_1743485957371.jpg",
+            "https://www.hindustantimes.com/ht-img/img/2025/04/01/1600x900/chatgpt_disney_pixar_style_image_generator_1743485947456_1743485957371.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Art Styles",
+      "templates": [
+        {
+          "name": "Oil Painting",
+          "prompt": "Convert to oil painting style artwork",
+          "thumbnail": "https://img.freepik.com/premium-photo/painting-woman-with-purple-shirt-that-says-no_1051578-163080.jpg",
+          "isPro": true,
+          "examples": [
+            "https://img.freepik.com/premium-photo/painting-woman-with-purple-shirt-that-says-no_1051578-163080.jpg"
+          ]
+        },
+        {
+          "name": "Watercolor",
+          "prompt": "Transform into watercolor painting style",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoqESGzHlXmJS0g27vPMkaWPUn1-olKDw1g&s",
+          "isPro": true
+        },
+        {
+          "name": "Pencil Sketch",
+          "prompt": "Convert to detailed pencil sketch",
+          "thumbnail": "https://www.adobe.com/products/photoshop/media_1de7a399a31443c5449611103a8eb72c79e767d15.jpeg?width=1200&format=pjpg&optimize=medium",
+          "isPro": true
+        },
+        {
+          "name": "Pop Art",
+          "prompt": "Transform into pop art style",
+          "thumbnail": "https://i.ytimg.com/vi/fGxH76JYDdQ/maxresdefault.jpg",
+          "isPro": true
+        },
+        {
+          "name": "Impressionist",
+          "prompt": "Convert to impressionist painting style",
+          "thumbnail": "https://www.befunky.com/images/wp/wp-2024-07-oil-painting-and-impressionist-effects-after.jpg?auto=avif,webp&format=jpg&width=944",
+          "isPro": true
+        }
+      ]
+    },
+    {
+      "name": "Fantasy & Sci-Fi",
+      "templates": [
+        {
+          "name": "Cyberpunk",
+          "prompt": "Transform into cyberpunk style with neon lights",
+          "thumbnail": "https://i.imgur.com/anraWVX.jpeg",
+          "isPro": true
+        },
+        {
+          "name": "Fantasy World",
+          "prompt": "Place in a magical fantasy world",
+          "thumbnail": "https://i.imgur.com/ixzHH7l.jpeg",
+          "isPro": true
+        },
+        {
+          "name": "Steampunk",
+          "prompt": "Convert to steampunk style with mechanical elements",
+          "thumbnail": "https://steampunktribune.com/wp-content/uploads/2024/07/image-1.jpeg",
+          "isPro": true
+        },
+        {
+          "name": "Space Opera",
+          "prompt": "Place in a futuristic space setting",
+          "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/american-actor-gary-lockwood-on-the-set-of-2001-a-space-news-photo-1677608518.jpg?crop=0.60156xw:1xh;center,top&resize=1200:*",
+          "isPro": true
+        }
+      ]
+    },
+    {
+      "name": "Time Periods",
+      "templates": [
+        {
+          "name": "Vintage",
+          "prompt": "Apply vintage sepia tone from 1920s",
+          "thumbnail": "https://i.imgur.com/cmpRKk4.jpeg",
+          "isPro": true
+        },
+        {
+          "name": "Medieval",
+          "prompt": "Transform to medieval time period",
+          "thumbnail": "https://www.livinghistoryarchive.com/uploads/uploads/oxyNxhVxJ876NGglgV7lnv0HxECa6boBCZNIEJ3B.png",
+          "isPro": true
+        },
+        {
+          "name": "Renaissance",
+          "prompt": "Convert to Renaissance painting style",
+          "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/190723101718-ai-photos-renaissance-painting-generator-malone-mxp-vpx-00000322.jpg?q=w_1110,c_fill",
+          "isPro": true
+        },
+        {
+          "name": "80s Retro",
+          "prompt": "Apply 1980s retro style",
+          "thumbnail": "https://static.wixstatic.com/media/8dacad_fd08e0f002a544ebb14c647b9d788be6~mv2.png/v1/fill/w_458,h_342,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a%20couple%20in%201980s%20attire%20in%20an%20authentic%201980s%20setting.png",
+          "isPro": true
+        }
+      ]
+    },
+    {
+      "name": "Environments",
+      "templates": [
+        {
+          "name": "Beach Vacation",
+          "prompt": "Place on a tropical beach",
+          "thumbnail": "https://i.imgur.com/WFYNODS.jpeg",
+          "isPro": true
+        },
+        {
+          "name": "Winter Wonderland",
+          "prompt": "Place in a snowy winter landscape",
+          "thumbnail": "https://i.imgur.com/yGMK966.jpeg",
+          "isPro": true
+        },
+        {
+          "name": "Urban City",
+          "prompt": "Place in modern city environment",
+          "thumbnail": "https://meconstructionnews.com/wp-content/uploads/2021/03/CallisonRTKL-CRTKLImage-3.jpg",
+          "isPro": true
+        },
+        {
+          "name": "Underwater",
+          "prompt": "Place in underwater scene",
+          "thumbnail": "https://visitturkey.in/wp-content/uploads/2015/05/dive-into-the-beauty-of-turkeys-underwater-world.webp",
+          "isPro": true
+        }
+      ]
+    },
+    {
+      "name": "Character Types",
+      "templates": [
+        {
+          "name": "Superhero",
+          "prompt": "Transform into superhero with cape and costume",
+          "thumbnail": "https://i.imgur.com/Y7LuJJj.jpeg",
+          "isPro": true
+        },
+        {
+          "name": "Professional",
+          "prompt": "Make look like business professional",
+          "thumbnail": "https://i.imgur.com/udAsgUt.jpeg",
+          "isPro": true
+        },
+        {
+          "name": "Fantasy Character",
+          "prompt": "Transform into fantasy character",
+          "thumbnail": "https://i.pinimg.com/736x/d6/31/55/d63155148d214d93088719b763caaaee.jpg",
+          "isPro": true
+        },
+        {
+          "name": "Warrior",
+          "prompt": "Transform into ancient warrior",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v849J7RuYKRM8LD1UutBc5HMGVepKH1rgQ&s",
+          "isPro": true
+        }
+      ]
+    }
+  ],
+  "trending": [
+    {
+      "name": "Superero",
+      "prompt": "Transform into superhero with cape and costume",
+      "thumbnail": "https://i.imgur.com/Y7LuJJj.jpeg",
+      "isPro": true
+    },
+    {
+      "name": "Viral Dance",
+      "prompt": "Place in a viral dance video setting with effects",
+      "thumbnail": "https://i.ytimg.com/vi/CLpNxt7Bnvk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOkAqpqL4OK6Myr2f6vj14W2iuAw",
+      "isPro": true
+    },
+    {
+      "name": "Pet Influencer",
+      "prompt": "Add cute pets and social media elements",
+      "thumbnail": "https://img.freepik.com/premium-photo/close-up-shot-cute-pet-animals-generative-ai_658559-3629.jpg?w=360",
+      "isPro": true
+    }
+  ],
+  "surprisePrompts": [
+    "A majestic dragon soaring through neon-lit cyberpunk cityscape",
+    "Dancing robots performing in a renaissance art gallery",
+    "Underwater disco party with glowing sea creatures",
+    "Time-traveling coffee shop with historical figures as baristas",
+    "Space pirates having a tea party on an asteroid",
+    "Giant cats playing basketball in Tokyo",
+    "Medieval knights riding dinosaurs into battle",
+    "Floating islands with waterfalls of rainbow colors",
+    "Steampunk circus performers in zero gravity",
+    "Magical library where books come to life",
+    "Ancient temples transformed into modern techno clubs",
+    "Garden of crystalline flowers that play music",
+    "Ghost pirates DJing at a haunted beach party",
+    "Robot chefs cooking in a floating restaurant",
+    "Fantasy food market with impossible delicacies",
+    "Breakdancing wizards in an enchanted forest",
+    "Pet dragons at a grooming salon",
+    "Superhero training academy in the clouds",
+    "Underground city powered by giant glowing mushrooms",
+    "Time-traveling fashion show with historical mashups"
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2024-03-21",
+    "defaultDuration": 10,
+    "defaultAspectRatio": "9:16"
+  }
+}
