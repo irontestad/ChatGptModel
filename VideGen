@@ -1,224 +1,209 @@
 {
   "categories": [
     {
-      "name": "Movie Styles",
+      "name": "Cinematic Masterpieces",
       "templates": [
         {
-          "name": "Skyscraper Leap",
-          "prompt": "Create a stunning cinematic sequence: A person leaps from a helicopter onto a towering skyscraper at night, landing in a dramatic crouch. As they rise, wind whips their jacket, and city lights glitter below. Capture the intensity and suspense with fast camera movements and close-ups on the figure’s determined expression. The scene should feel like a high-stakes movie moment, filled with adrenaline and epic atmosphere. Focus on realistic action, dynamic lighting, and a sense of scale as the character surveys the vast, illuminated city skyline from the rooftop.",
+          "name": "Urban Rooftop Adventure",
+          "prompt": "Film an epic cinematic moment: A fearless figure emerges from a helicopter, gracefully landing on a gleaming skyscraper rooftop under the starlit sky. The camera captures every breath-taking detail—jacket flowing in the wind, confident stance against the glittering metropolis below. Use sweeping drone shots and intimate close-ups to showcase raw determination and urban majesty. The sequence pulses with blockbuster energy, featuring dramatic lighting that transforms the cityscape into a canvas of dreams and ambition.",
           "thumbnail": "https://i.imgur.com/9JI6WP3.png",
           "isPro": true
         },
         {
-          "name": "Cliff Dive",
-          "prompt": "Create a stunning cinematic sequence: A person dives into a crystal-clear lake from a towering cliff, water splashing in slow motion. As they surface, sunlight glimmers on the ripples. Use underwater and aerial shots to capture the serene beauty, emphasizing the exhilaration and tranquility of the moment.",
+          "name": "Crystal Waters Dive",
+          "prompt": "Capture a breathtaking aquatic symphony: A daring soul plunges from towering cliffs into pristine emerald waters, creating liquid diamonds as they pierce the surface. Film the graceful arc through azure skies, the explosive splash in slow-motion poetry, and the serene emergence surrounded by dancing sunbeams. Blend aerial majesty with underwater enchantment to create a visual meditation on courage and natural beauty.",
           "thumbnail": "https://i.imgur.com/3X2rAmX.png",
           "isPro": true
         },
         {
-          "name": "Foggy Forest Chase",
-          "prompt": "Create a stunning cinematic sequence: A person runs through a dense, foggy forest at twilight, branches brushing past. The camera follows close behind, capturing adrenaline and uncertainty. Use dramatic lighting and sound to heighten suspense as the figure navigates the mysterious woods.",
+          "name": "Mystical Forest Pursuit",
+          "prompt": "Create an atmospheric thriller: A mysterious figure navigates through enchanted woodland shrouded in ethereal mist during the golden hour. The camera weaves between ancient trees, capturing the interplay of shadow and light as our protagonist moves with purpose through nature's labyrinth. Emphasize the haunting beauty and primal energy of untamed wilderness meeting human determination.",
           "thumbnail": "https://i.imgur.com/qWR5NeI.png",
           "isPro": true
         },
         {
-          "name": "Futuristic Helmet Reveal",
-          "prompt": "A striking cinematic prompt: Turn my face with confidence on a bustling city street, wearing a sleek, silver futuristic helmet with bold black accents and a large rectangular visor reflecting vibrant city lights. Small circular lights illuminate the helmet, matching the advanced, metallic suit. Use a medium, centered shot to highlight the suit and helmet’s intricate details. Capture minimal motion as my head turns slowly, conveying elegance and poise. Employ a graceful tracking shot, dynamically revealing the urban environment’s depth and modern spatial elements. Bright, modern lighting enhances the reflective surfaces, evoking a high-definition, 2020s cinematic experience.",
+          "name": "Cyber Warrior Revelation",
+          "prompt": "Design a stunning sci-fi showcase: Present a confident figure wearing an ultra-modern chrome helmet with obsidian accents, featuring a panoramic visor that mirrors the pulsing neon cityscape. The advanced tactical suit gleams under urban lights as they turn with deliberate grace. Use sophisticated camera work to highlight the intricate technological details while the metropolitan backdrop creates a symphony of color and light, embodying the perfect fusion of human elegance and futuristic innovation.",
           "thumbnail": "https://i.imgur.com/q5fc62Z.png",
           "isPro": true
         },
         {
-          "name": "Wild West Duel",
-          "prompt": "Two gunslingers stand back-to-back in a ghost town at high noon, wind swirling dust between them. Extreme close-ups on twitching fingers near holsters, then a rapid 360-degree spin as gunshots echo. Sunlight flares through bullet holes in wooden signs.",
+          "name": "Desert Showdown",
+          "prompt": "Stage an iconic western confrontation: Two legendary gunslingers face destiny in an abandoned frontier town as the blazing sun reaches its zenith. Golden dust swirls between weathered buildings while extreme close-ups reveal steely resolve and lightning-fast reflexes. The camera spins dramatically as echoing gunshots shatter the silence, with brilliant sunlight streaming through bullet-marked wooden structures.",
           "thumbnail": "https://i.imgur.com/Hwo326G.png",
           "isPro": true
         }
       ]
     },
     {
-      "name": "Basic Styles",
+      "name": "Essential Transformations",
       "templates": [
         {
-          "name": "Realistic",
-          "prompt": "Create a photorealistic version",
+          "name": "Ultra-Realistic",
+          "prompt": "Transform into stunning photorealistic perfection with lifelike details",
           "thumbnail": "https://gamingbolt.com/wp-content/uploads/2018/03/Detroit-Become-Human.jpg",
-          "isPro": true,
-          "examples": [
-            "https://gamingbolt.com/wp-content/uploads/2018/03/Detroit-Become-Human.jpg",
-            "https://gamingbolt.com/wp-content/uploads/2018/03/Detroit-Become-Human.jpg"
-          ]
+          "isPro": true
         },
         {
-          "name": "Anime",
-          "prompt": "Convert to anime style art",
+          "name": "Anime Aesthetic",
+          "prompt": "Convert into beautiful anime-style artwork with vibrant colors and expressive features",
           "thumbnail": "https://i.imgur.com/3ukxxAI.png",
-          "isPro": true,
-          "examples": [
-            "https://i.imgur.com/3ukxxAI.png",
-            "https://i.imgur.com/3ukxxAI.png"
-          ]
+          "isPro": true
         },
         {
-          "name": "Cartoon",
-          "prompt": "Transform into a cartoon style animation",
+          "name": "Animated Wonder",
+          "prompt": "Transform into charming cartoon animation with playful Disney-Pixar style magic",
           "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/04/01/1600x900/chatgpt_disney_pixar_style_image_generator_1743485947456_1743485957371.jpg",
-          "isPro": true,
-          "examples": [
-            "https://www.hindustantimes.com/ht-img/img/2025/04/01/1600x900/chatgpt_disney_pixar_style_image_generator_1743485947456_1743485957371.jpg",
-            "https://www.hindustantimes.com/ht-img/img/2025/04/01/1600x900/chatgpt_disney_pixar_style_image_generator_1743485947456_1743485957371.jpg"
-          ]
+          "isPro": true
         }
       ]
     },
     {
-      "name": "Art Styles",
+      "name": "Artistic Masterworks",
       "templates": [
         {
-          "name": "Oil Painting",
-          "prompt": "Convert to oil painting style artwork",
+          "name": "Classical Oil Portrait",
+          "prompt": "Transform into a magnificent oil painting with rich textures and classical brushwork",
           "thumbnail": "https://img.freepik.com/premium-photo/painting-woman-with-purple-shirt-that-says-no_1051578-163080.jpg",
-          "isPro": true,
-          "examples": [
-            "https://img.freepik.com/premium-photo/painting-woman-with-purple-shirt-that-says-no_1051578-163080.jpg"
-          ]
+          "isPro": true
         },
         {
-          "name": "Watercolor",
-          "prompt": "Transform into watercolor painting style",
+          "name": "Dreamy Watercolor",
+          "prompt": "Convert into flowing watercolor art with soft washes and ethereal beauty",
           "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoqESGzHlXmJS0g27vPMkaWPUn1-olKDw1g&s",
           "isPro": true
         },
         {
-          "name": "Pencil Sketch",
-          "prompt": "Convert to detailed pencil sketch",
+          "name": "Artistic Sketch",
+          "prompt": "Create a detailed pencil drawing with masterful shading and artistic flair",
           "thumbnail": "https://www.adobe.com/products/photoshop/media_1de7a399a31443c5449611103a8eb72c79e767d15.jpeg?width=1200&format=pjpg&optimize=medium",
           "isPro": true
         },
         {
-          "name": "Pop Art",
-          "prompt": "Transform into pop art style",
+          "name": "Pop Culture Icon",
+          "prompt": "Transform into vibrant pop art with bold colors and contemporary style",
           "thumbnail": "https://i.ytimg.com/vi/fGxH76JYDdQ/maxresdefault.jpg",
           "isPro": true
         },
         {
-          "name": "Impressionist",
-          "prompt": "Convert to impressionist painting style",
+          "name": "Impressionist Dream",
+          "prompt": "Convert into impressionist masterpiece with soft light and artistic brushstrokes",
           "thumbnail": "https://www.befunky.com/images/wp/wp-2024-07-oil-painting-and-impressionist-effects-after.jpg?auto=avif,webp&format=jpg&width=944",
           "isPro": true
         }
       ]
     },
     {
-      "name": "Fantasy & Sci-Fi",
+      "name": "Futuristic Realms",
       "templates": [
         {
-          "name": "Cyberpunk",
-          "prompt": "Transform into cyberpunk style with neon lights",
+          "name": "Neon Cyberpunk",
+          "prompt": "Transform into cyberpunk warrior with electric neon lighting and futuristic atmosphere",
           "thumbnail": "https://i.imgur.com/anraWVX.jpeg",
           "isPro": true
         },
         {
-          "name": "Fantasy World",
-          "prompt": "Place in a magical fantasy world",
+          "name": "Enchanted Realm",
+          "prompt": "Transport into a magical fantasy kingdom filled with wonder and mystical elements",
           "thumbnail": "https://i.imgur.com/ixzHH7l.jpeg",
           "isPro": true
         },
         {
-          "name": "Steampunk",
-          "prompt": "Convert to steampunk style with mechanical elements",
+          "name": "Victorian Inventor",
+          "prompt": "Convert into steampunk adventurer with brass gears and mechanical marvels",
           "thumbnail": "https://steampunktribune.com/wp-content/uploads/2024/07/image-1.jpeg",
           "isPro": true
         },
         {
-          "name": "Space Opera",
-          "prompt": "Place in a futuristic space setting",
+          "name": "Galactic Explorer",
+          "prompt": "Transform into space-age hero exploring distant galaxies and cosmic wonders",
           "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/american-actor-gary-lockwood-on-the-set-of-2001-a-space-news-photo-1677608518.jpg?crop=0.60156xw:1xh;center,top&resize=1200:*",
           "isPro": true
         }
       ]
     },
     {
-      "name": "Time Periods",
+      "name": "Historical Journeys",
       "templates": [
         {
-          "name": "Vintage",
-          "prompt": "Apply vintage sepia tone from 1920s",
+          "name": "Golden Age Glamour",
+          "prompt": "Apply elegant vintage charm from the roaring 1920s with sepia warmth",
           "thumbnail": "https://i.imgur.com/cmpRKk4.jpeg",
           "isPro": true
         },
         {
-          "name": "Medieval",
-          "prompt": "Transform to medieval time period",
+          "name": "Medieval Legend",
+          "prompt": "Transform into noble medieval character in an age of chivalry and castles",
           "thumbnail": "https://www.livinghistoryarchive.com/uploads/uploads/oxyNxhVxJ876NGglgV7lnv0HxECa6boBCZNIEJ3B.png",
           "isPro": true
         },
         {
-          "name": "Renaissance",
-          "prompt": "Convert to Renaissance painting style",
+          "name": "Renaissance Nobility",
+          "prompt": "Convert into Renaissance portrait with classical elegance and artistic mastery",
           "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/190723101718-ai-photos-renaissance-painting-generator-malone-mxp-vpx-00000322.jpg?q=w_1110,c_fill",
           "isPro": true
         },
         {
-          "name": "80s Retro",
-          "prompt": "Apply 1980s retro style",
+          "name": "Neon Nostalgia",
+          "prompt": "Apply vibrant 1980s retro style with electric colors and decade flair",
           "thumbnail": "https://static.wixstatic.com/media/8dacad_fd08e0f002a544ebb14c647b9d788be6~mv2.png/v1/fill/w_458,h_342,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a%20couple%20in%201980s%20attire%20in%20an%20authentic%201980s%20setting.png",
           "isPro": true
         }
       ]
     },
     {
-      "name": "Environments",
+      "name": "Dream Destinations",
       "templates": [
         {
-          "name": "Beach Vacation",
-          "prompt": "Place on a tropical beach",
+          "name": "Paradise Escape",
+          "prompt": "Transport to tropical paradise with crystal waters and swaying palms",
           "thumbnail": "https://i.imgur.com/WFYNODS.jpeg",
           "isPro": true
         },
         {
-          "name": "Winter Wonderland",
-          "prompt": "Place in a snowy winter landscape",
+          "name": "Snowy Serenity",
+          "prompt": "Place in enchanting winter wonderland with pristine snow and magical atmosphere",
           "thumbnail": "https://i.imgur.com/yGMK966.jpeg",
           "isPro": true
         },
         {
-          "name": "Urban City",
-          "prompt": "Place in modern city environment",
+          "name": "Metropolitan Marvel",
+          "prompt": "Transform into modern city dweller surrounded by urban sophistication",
           "thumbnail": "https://meconstructionnews.com/wp-content/uploads/2021/03/CallisonRTKL-CRTKLImage-3.jpg",
           "isPro": true
         },
         {
-          "name": "Underwater",
-          "prompt": "Place in underwater scene",
+          "name": "Aquatic Adventure",
+          "prompt": "Dive into mysterious underwater realm with marine life and aquatic beauty",
           "thumbnail": "https://visitturkey.in/wp-content/uploads/2015/05/dive-into-the-beauty-of-turkeys-underwater-world.webp",
           "isPro": true
         }
       ]
     },
     {
-      "name": "Character Types",
+      "name": "Character Evolution",
       "templates": [
         {
-          "name": "Superhero",
-          "prompt": "Transform into superhero with cape and costume",
+          "name": "Legendary Hero",
+          "prompt": "Transform into mighty superhero with flowing cape and powerful presence",
           "thumbnail": "https://i.imgur.com/Y7LuJJj.jpeg",
           "isPro": true
         },
         {
-          "name": "Professional",
-          "prompt": "Make look like business professional",
+          "name": "Executive Excellence",
+          "prompt": "Convert into polished business professional with confident corporate style",
           "thumbnail": "https://i.imgur.com/udAsgUt.jpeg",
           "isPro": true
         },
         {
-          "name": "Fantasy Character",
-          "prompt": "Transform into fantasy character",
+          "name": "Mythical Being",
+          "prompt": "Transform into enchanting fantasy character with magical abilities and ethereal beauty",
           "thumbnail": "https://i.pinimg.com/736x/d6/31/55/d63155148d214d93088719b763caaaee.jpg",
           "isPro": true
         },
         {
-          "name": "Warrior",
-          "prompt": "Transform into ancient warrior",
+          "name": "Battle Champion",
+          "prompt": "Convert into legendary warrior with armor and weapons of ancient power",
           "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v849J7RuYKRM8LD1UutBc5HMGVepKH1rgQ&s",
           "isPro": true
         }
@@ -227,50 +212,61 @@
   ],
   "trending": [
     {
-      "name": "Superero",
-      "prompt": "Transform into superhero with cape and costume",
+      "name": "Heroic Legend",
+      "prompt": "Transform into mighty superhero with flowing cape and legendary powers",
       "thumbnail": "https://i.imgur.com/Y7LuJJj.jpeg",
       "isPro": true
     },
     {
-      "name": "Viral Dance",
-      "prompt": "Place in a viral dance video setting with effects",
+      "name": "Viral Sensation",
+      "prompt": "Create trending dance video with dynamic effects and social media magic",
       "thumbnail": "https://i.ytimg.com/vi/CLpNxt7Bnvk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOkAqpqL4OK6Myr2f6vj14W2iuAw",
       "isPro": true
     },
     {
-      "name": "Pet Influencer",
-      "prompt": "Add cute pets and social media elements",
+      "name": "Adorable Companion",
+      "prompt": "Add charming pets and create heartwarming social media moments",
       "thumbnail": "https://img.freepik.com/premium-photo/close-up-shot-cute-pet-animals-generative-ai_658559-3629.jpg?w=360",
       "isPro": true
     }
   ],
-  "surpriseVideoprompts": [
-    "Ancient Egyptian pharaohs hosting a modern talk show in the pyramids",
-    "Victorian era gentlemen racing motorcycles through London fog",
-    "Samurai warriors operating a futuristic sushi restaurant in space",
-    "Roman gladiators competing in an intergalactic gaming tournament",
-    "1920s flappers dancing with holographic partners in a neon speakeasy",
-    "Medieval alchemists running a modern chemistry lab with magical equipment",
-    "Wild West cowboys herding robotic cattle on Mars",
-    "Renaissance artists painting with light beams in a digital studio",
-    "Aztec priests performing ceremonies with glowing crystal technology",
-    "Viking explorers discovering underwater cities filled with mermaids",
-    "Ancient Greek philosophers debating with AI robots in the clouds",
-    "Mongolian warriors riding mechanical horses across rainbow bridges",
-    "Stone Age humans operating a drive-through mammoth burger joint",
-    "Mayan astronomers managing a intergalactic space traffic control center",
-    "Byzantine emperors hosting a cooking competition with alien ingredients",
-    "Celtic druids growing virtual reality trees in a digital forest",
-    "Phoenician merchants trading holographic goods at a cosmic marketplace",
-    "Mesopotamian kings playing chess with living mythological creatures",
-    "Inca engineers building floating cities using anti-gravity stones",
-    "Paleolithic cave painters creating 3D art that comes alive and dances"
-],
+  "surpriseVideoPrompts": [
+    "Ancient pharaohs hosting a cosmic cooking show in floating pyramids",
+    "Victorian inventors racing steam-powered rockets through rainbow clouds",
+    "Medieval knights operating a interdimensional pizza delivery service",
+    "Roman gladiators competing in holographic dance battles on Jupiter",
+    "Pirate captains running a luxury spa retreat on a cloud island",
+    "Samurai warriors teaching yoga to friendly dragons in bamboo forests",
+    "Wild West sheriffs herding rainbow unicorns across crystal deserts",
+    "Stone Age hunters opening a modern coffee shop with dinosaur baristas",
+    "Renaissance artists painting with stardust in zero gravity studios",
+    "Viking explorers discovering underwater theme parks run by mermaids",
+    "Aztec priests hosting game shows with golden temple prizes",
+    "Mongolian nomads racing flying carpets through aurora-lit canyons",
+    "Egyptian queens managing a intergalactic fashion runway show",
+    "Celtic druids growing magical Christmas trees that sing opera",
+    "Mayan astronomers operating a cosmic taxi service between planets",
+    "Byzantine emperors competing in robot dance-offs with neon lights",
+    "Phoenician merchants selling bottled dreams at floating markets",
+    "Mesopotamian kings playing chess with living constellation pieces",
+    "Inca engineers building roller coasters that loop through time portals",
+    "Paleolithic cave painters creating animated murals that tell jokes",
+    "Spartan warriors running a peaceful meditation retreat for space aliens",
+    "Cleopatra hosting a talk show interviewing famous movie stars",
+    "Ninja assassins teaching cooking classes with invisible ingredients",
+    "Greek philosophers debating with wise-cracking AI toasters",
+    "Crusader knights opening a pet grooming salon for mythical creatures",
+    "Barbarian tribes starting a boy band that tours different dimensions",
+    "Ottoman sultans managing a theme park where history comes alive",
+    "Conquistadors discovering islands made entirely of candy and music",
+    "Mongol emperors hosting cooking competitions with ingredients from Mars",
+    "Babylonian priests running a detective agency solving cosmic mysteries"
+  ],
   "metadata": {
-    "version": "1.0",
-    "lastUpdated": "2024-03-21",
+    "version": "2.0",
+    "lastUpdated": "2024-12-19",
     "defaultDuration": 10,
-    "defaultAspectRatio": "9:16"
+    "defaultAspectRatio": "9:16",
+    "totalSurprisePrompts": 30
   }
 }
